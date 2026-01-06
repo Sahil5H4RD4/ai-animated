@@ -10,3 +10,4 @@
 - [2026-01-05T14:10:00] Clean up unused CSS rules
 - [2026-01-05T15:11:00] Add accessibility aria-labels
 - [2026-01-05T16:12:00] Add feature cards with hover effects
+- [2026-01-06T14:10:00] Finalize dark mode contrast
