@@ -14,3 +14,4 @@
 - [2026-01-06T15:11:00] Tweak glow spread radius
 - [2026-01-07T14:10:00] Split out feature data
 - [2026-01-08T14:10:00] Adjust z-index for nav
+- [2026-01-08T15:11:00] Refactor App component
