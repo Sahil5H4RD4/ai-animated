@@ -17,3 +17,4 @@
 - [2026-01-08T15:11:00] Refactor App component
 - [2026-01-09T14:10:00] Refactor navigation links
 - [2026-01-10T14:10:00] Update project documentation
+- [2026-01-10T15:11:00] Add introduction badge
