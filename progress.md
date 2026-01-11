@@ -20,3 +20,4 @@
 - [2026-01-10T15:11:00] Add introduction badge
 - [2026-01-11T14:10:00] Prepare for deployment
 - [2026-01-11T15:11:00] Review Framer API changes
+- [2026-01-11T16:12:00] Fix typo in badge
