@@ -22,3 +22,4 @@
 - [2026-01-11T15:11:00] Review Framer API changes
 - [2026-01-11T16:12:00] Fix typo in badge
 - [2026-01-12T14:10:00] Tweak primary color shade
+- [2026-01-13T14:10:00] Align hero elements centrally
