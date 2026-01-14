@@ -25,3 +25,4 @@
 - [2026-01-13T14:10:00] Align hero elements centrally
 - [2026-01-13T15:11:00] Update footer markup
 - [2026-01-13T16:12:00] Style glowing logo component
+- [2026-01-14T14:10:00] Implement glassmorphism for header
