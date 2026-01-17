@@ -28,3 +28,4 @@
 - [2026-01-14T14:10:00] Implement glassmorphism for header
 - [2026-01-15T14:10:00] Tune physics for framer motion
 - [2026-01-16T14:10:00] Run linter and fix errors
+- [2026-01-17T14:10:00] Implement hero call-to-action buttons
