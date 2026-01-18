@@ -31,3 +31,4 @@
 - [2026-01-17T14:10:00] Implement hero call-to-action buttons
 - [2026-01-17T15:11:00] Design gradient background blobs
 - [2026-01-18T14:10:00] Implement scroll-triggered views
+- [2026-01-18T15:11:00] Refine scroll variants
