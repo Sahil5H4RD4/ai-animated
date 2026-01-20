@@ -34,3 +34,4 @@
 - [2026-01-18T15:11:00] Refine scroll variants
 - [2026-01-19T14:10:00] Add hover states for buttons
 - [2026-01-19T15:11:00] Add subtle border to feature cards
+- [2026-01-20T14:10:00] Refactor main container sizing
