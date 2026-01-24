@@ -44,3 +44,4 @@
 - [2026-01-23T14:10:00] Fix flex gap compatibility
 - [2026-01-23T15:11:00] Update neural network icon
 - [2026-01-23T16:12:00] Style gradient text spans
+- [2026-01-24T14:10:00] Adjust parallax depth
