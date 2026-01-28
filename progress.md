@@ -49,3 +49,4 @@
 - [2026-01-25T14:10:00] Build hero section typography
 - [2026-01-26T14:10:00] Optimize SVG rendering
 - [2026-01-27T14:10:00] Add dynamic scrollY hooks
+- [2026-01-28T14:10:00] Add subtle drop shadows
