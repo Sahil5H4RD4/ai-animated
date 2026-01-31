@@ -58,3 +58,4 @@
 - [2026-01-30T14:10:00] Fix mobile padding issues
 - [2026-01-31T14:10:00] Setup Framer Motion variants
 - [2026-01-31T15:11:00] Clean up unused CSS rules
+- [2026-01-31T16:12:00] Add accessibility aria-labels
