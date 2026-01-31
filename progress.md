@@ -56,3 +56,4 @@
 - [2026-01-29T15:11:00] Add dark mode configurations
 - [2026-01-29T16:12:00] Update typography line height
 - [2026-01-30T14:10:00] Fix mobile padding issues
+- [2026-01-31T14:10:00] Setup Framer Motion variants
