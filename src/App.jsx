@@ -66,7 +66,7 @@ export default function App() {
           </motion.div>
           <motion.h1 variants={fadeIn}>
             Build the Future <br />
-            with <span>Intelligent Logic</span>
+            with <span>Unstoppable AI</span>
           </motion.h1>
           <motion.p variants={fadeIn}>
             Unleash the power of autonomous agents and next-generation neural engines to transform how you build, scale, and innovate on the web.
