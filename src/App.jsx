@@ -22,7 +22,8 @@ export default function App() {
     { icon: <Shield size={24} />, title: "Bank-grade Security", desc: "End-to-end encryption and compliance with top-tier security standards." },
     { icon: <Sparkles size={24} />, title: "Magic Integration", desc: "Seamlessly connects with your existing stack without any friction." },
     { icon: <Rocket size={24} />, title: "Infinite Scalability", desc: "Built to handle millions of requests without breaking a sweat." },
-    { icon: <Code size={24} />, title: "Developer First", desc: "Comprehensive APIs and SDKs designed for modern development teams." }
+    { icon: <Code size={24} />, title: "Developer First", desc: "Comprehensive APIs and SDKs designed for modern development teams." },
+    { icon: <Zap size={24} />, title: "Global Edge", desc: "Distributed across 200+ edge locations for reduced latency and high availability." }
   ];
 
   return (
